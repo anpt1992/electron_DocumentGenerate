@@ -1,0 +1,17 @@
+{
+  "name": "electron_DocumentGenerate",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.5",
+    "electron-installer-windows": "^2.0.0",
+    "electron-packager": "^14.1.1"
+  },
+  "dependencies": {
+    "docx4js": "^3.2.0"
+  }
+}
